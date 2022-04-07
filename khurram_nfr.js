@@ -1,4 +1,4 @@
-const users = ['Ifrah', 'Collins', 'Jayla'];
+const users = ['Ifrah', 'Collins', 'Jayla', 'Fola', 'Treasure'];
 
 const memberDiv = document.querySelector('.memberDiv');
 const addIcon = document.querySelector('.addIcon');
